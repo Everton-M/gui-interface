@@ -41,6 +41,7 @@ python main.py
 
 ## Estrutura do Projeto
 
+'''
 .
 ├── main.py             # Arquivo principal da aplicação
 ├── tela_cadastro.py    # Interface e lógica da tela de cadastro
@@ -49,3 +50,4 @@ python main.py
 ├── usuarios.json       # Arquivo gerado com os usuários cadastrados
 ├── estilo.qss          # Estilo visual da interface (opcional)
 └── README.md           # Este documento
+'''
