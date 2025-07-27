@@ -27,8 +27,8 @@ Este projeto é uma interface gráfica simples de **cadastro e login de usuário
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/
-cd 
+git clone https://github.com/Everton-M/gui-interface.git
+cd gui-interface
 ```
 
 2. Instale a dependência:
